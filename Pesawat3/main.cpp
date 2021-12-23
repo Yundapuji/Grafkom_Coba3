@@ -11,6 +11,7 @@
  * number of geometry stacks and slices can be adjusted
  * using the + and - keys.
  * komen 1 tes
+ * komen 2 yaa bisa pliss
  */
 
 #ifdef __APPLE__
