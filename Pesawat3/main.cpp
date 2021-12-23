@@ -10,6 +10,7 @@
  * displayed until the ESC or q key is pressed.  The
  * number of geometry stacks and slices can be adjusted
  * using the + and - keys.
+ * komen 1 tes
  */
 
 #ifdef __APPLE__
