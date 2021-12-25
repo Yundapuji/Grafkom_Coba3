@@ -12,8 +12,9 @@
  * using the + and - keys.
  * komen 1 tes
  * komen 2 yaa bisa pliss
+ * yaa mudah"an nda eror
  */
-
+#include <windows.h>
 #ifdef __APPLE__
 #include <GLUT/glut.h>
 #else
