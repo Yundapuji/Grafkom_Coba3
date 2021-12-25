@@ -13,6 +13,7 @@
  * komen 1 tes
  * komen 2 yaa bisa pliss
  * yaa mudah"an nda eror
+ * yaaaaaa hmhmhm
  */
 #include <windows.h>
 #ifdef __APPLE__
